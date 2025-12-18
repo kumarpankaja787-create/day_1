@@ -38,4 +38,5 @@ int main() {
 // Q3) print wave up to down down to up
 // Q4) spiral print
 // Q5) two leetcode problems 86 nd 43
-// then after binary search
+// then after binary search lc 74 problem
+// Q6) lc 240
