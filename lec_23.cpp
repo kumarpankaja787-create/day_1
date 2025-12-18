@@ -32,3 +32,10 @@ int main() {
     
     return 0;
 }
+
+// Q1) finding target 
+// Q2) Row wise sum
+// Q3) print wave up to down down to up
+// Q4) spiral print
+// Q5) two leetcode problems 86 nd 43
+// then after binary search
